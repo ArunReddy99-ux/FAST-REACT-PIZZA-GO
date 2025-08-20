@@ -1,4 +1,4 @@
-## Fast React Pizza Co
+## Fast React Pizza Co 🍕🍕🍕
 
 An end-to-end pizza ordering Single Page Application built with React, Redux Toolkit, React Router (data APIs), Tailwind CSS, and Vite. It showcases modern React patterns: route-based data fetching and mutations, global state management, optimistic UI updates, and a clean feature-first folder structure.
 
