@@ -128,12 +128,6 @@ npm run preview
 - `src/features/order/CreateOrder.jsx`: form submission with an action.
 - `src/features/order/Order.jsx`: data loading with a loader.
 
-### Extending the app
-- **Add a feature**: create a new folder under `src/features/<name>` with UI + slice (if needed). Wire routes in `src/App.jsx`.
-- **Add API calls**: place them in `src/services/`, call from loaders/actions.
-- **Persist state**: integrate persistence (e.g., localStorage) within slices or via middleware.
 
-### License
-For learning and demonstration purposes.
 
 
